@@ -1,0 +1,25 @@
+{
+  "products": [
+    {
+      "title": "sa",
+      "price": "s",
+      "photo": "s",
+      "description": "s",
+      "id": 1
+    },
+    {
+      "title": "az",
+      "price": "az",
+      "photo": "az",
+      "description": "az",
+      "id": 16
+    },
+    {
+      "title": "a",
+      "price": "a",
+      "photo": "a",
+      "description": "a",
+      "id": 17
+    }
+  ]
+}
